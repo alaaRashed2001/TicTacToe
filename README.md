@@ -1,16 +1,5 @@
-# tic_tac_toe
+![image](https://github.com/alaaRashed2001/TicTacToe/assets/114382094/01e40f9d-1bef-44c4-9f36-2edfb9fddffd)
+Players take turns entering their moves, and the game checks for winning conditions or a draw after each move. The game continues until there is a winner or a draw, and players can choose to play again after the game concludes.
 
-A new Flutter project.
+![image](https://github.com/alaaRashed2001/TicTacToe/assets/114382094/d2662e60-55ec-4d1b-a131-1d2af2524e77)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
